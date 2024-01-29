@@ -1,0 +1,8 @@
+/venv
+alembic.ini
+/alembic
+config.py
+/__pycache__
+/db/__pycache__
+/utils/__pycache__
+/utils/misc/__pycache__

@@ -1,0 +1,129 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-05-20 15:21-0700\n"
+"PO-Revision-Date: 2023-04-16 00:53-0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ru\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: routes.py:56 routes.py:530 routes.py:558 routes.py:566 routes.py:574
+#: routes.py:648 routes.py:845 routes.py:856 routes.py:871 routes.py:882
+#: routes.py:975 routes.py:992 routes.py:1018 routes.py:1065 routes.py:1099
+msgid "Mening murojaatlarim 🧾"
+msgstr "Мои обращения 🧾"
+
+#: routes.py:57 routes.py:531 routes.py:559 routes.py:567 routes.py:575
+#: routes.py:649 routes.py:846 routes.py:857 routes.py:872 routes.py:883
+#: routes.py:976 routes.py:993 routes.py:1019 routes.py:1066 routes.py:1100
+msgid "Murojaatingizni qoldiring 📝"
+msgstr "Оставьте обращение 📝"
+
+#: routes.py:58 routes.py:532 routes.py:560 routes.py:568 routes.py:576
+#: routes.py:650 routes.py:847 routes.py:858 routes.py:873 routes.py:884
+#: routes.py:977 routes.py:994 routes.py:1020 routes.py:1067 routes.py:1101
+msgid "🇺🇿/🇷🇺"
+msgstr "🇺🇿/🇷🇺"
+
+#: routes.py:59 routes.py:533 routes.py:561 routes.py:569 routes.py:577
+#: routes.py:651 routes.py:800 routes.py:848 routes.py:859 routes.py:874
+#: routes.py:885 routes.py:978 routes.py:995 routes.py:1021 routes.py:1068
+#: routes.py:1102
+msgid "Sozlamalar ⚙️"
+msgstr "Настройки ⚙️"
+
+#: routes.py:136 routes.py:170 routes.py:175 routes.py:204 routes.py:222
+#: routes.py:224 routes.py:246 routes.py:522 routes.py:646 routes.py:727
+#: routes.py:827 routes.py:843 routes.py:844 routes.py:869 routes.py:870
+#: routes.py:904 routes.py:928 routes.py:988 routes.py:990 routes.py:1005
+#: routes.py:1015 routes.py:1017 routes.py:1044 routes.py:1062 routes.py:1064
+msgid "Bekor qilish"
+msgstr "Отмена"
+
+#: routes.py:228 routes.py:325
+msgid "Telefon raqamni jo'natish"
+msgstr "Отправить номер телефона"
+
+#: routes.py:232 routes.py:242 routes.py:256 routes.py:321 routes.py:326
+#: routes.py:336 routes.py:344 routes.py:347 routes.py:357 routes.py:367
+#: routes.py:370 routes.py:383 routes.py:393 routes.py:396 routes.py:406
+#: routes.py:424 routes.py:438 routes.py:444 routes.py:506 routes.py:510
+msgid "Orqaga"
+msgstr "Назад"
+
+#: routes.py:381 routes.py:442
+msgid "Erkak"
+msgstr "Мужчина"
+
+#: routes.py:382 routes.py:443
+msgid "Ayol"
+msgstr "Женщина"
+
+#: routes.py:430
+msgid ""
+"Mazkur bot yoshlardan taklif va murojaatlarni qabul qilishga "
+"mo‘ljallangan. Sizga @agromurojaatbot dan foydalanish taklif etiladi."
+msgstr ""
+"Настоящий бот создан для приема предложений и обращений от молодежи.Вам "
+"предлагается перейти на @agromurojaatbot"
+
+#: routes.py:528
+msgid "Asosiy menyu"
+msgstr "Главное меню"
+
+#: routes.py:727
+msgid "Murojaati nomerni tanlang!"
+msgstr "Выберите номер обращения!"
+
+#: routes.py:798
+msgid "Ma'lumotlarni ko'rish"
+msgstr "Посмотреть данные"
+
+#: routes.py:813
+msgid "Ism sharifini o`zgartirish"
+msgstr "Изменить имя"
+
+#: routes.py:815
+msgid "Telefonni o`zgartirish"
+msgstr "Изменить телефон"
+
+#: routes.py:830 routes.py:832
+msgid "Kontaktni yuboring"
+msgstr "Отправить номер телефона"
+
+#: routes.py:902
+msgid "Ism sharifini o'zgartirish"
+msgstr "Изменить имя"
+
+#: routes.py:902
+msgid "Telefonni o'zgartirish"
+msgstr "Изменить телефон"
+
+#: routes.py:903
+msgid "Hududni o'zgartirish"
+msgstr "Поменять область"
+
+#: routes.py:928
+msgid "Tugmasini bosing"
+msgstr "Нажмите на кнопку"
+
+#~ msgid "Asosiy menyu"
+#~ msgstr "Главное меню"
+
+#~ msgid "Yo'nalish tugmasini bosing"
+#~ msgstr "Выберите направление"
+
+#~ msgid "Tilni o`zgartirish"
+#~ msgstr "Поменять язык"
+
+#~ msgid "Telefon raqamni jo'natish!"
+#~ msgstr "Отправить номер телефона"
+
